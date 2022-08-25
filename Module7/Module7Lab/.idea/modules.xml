@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Module7Lab.iml" filepath="$PROJECT_DIR$/.idea/Module7Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module7Lab/Module7Lab/java-racecar-maven.iml" filepath="$PROJECT_DIR$/Module7Lab/Module7Lab/java-racecar-maven.iml" />
+    </modules>
+  </component>
+</project>
